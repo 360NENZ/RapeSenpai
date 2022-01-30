@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="https://github.com/JAVAEdition/RapeSenpai/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
+  <a href="https://javaedition.github.io/RapeSenpai/"><img src="https://github.com/JAVAEdition/RapeSenpai/blob/main/static/image/ClickBefore.png?raw=true" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
@@ -14,7 +14,7 @@ _🦌 网页小游戏 🥛_
 
 小游戏：雷普先辈
 
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[Github Pages](https://javaedition.github.io/RapeSenpai/index.html)
 
 ## 可选功能
 
